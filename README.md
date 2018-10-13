@@ -1,5 +1,7 @@
 # Hello World
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/hello-world-ruby-q-000.svg)](https://www.guardrails.io)
+
 ## Overview
 
 We're going to make a file that will print ["Hello World!"](http://en.wikipedia.org/wiki/%22Hello,_World!%22_program) to your terminal.
